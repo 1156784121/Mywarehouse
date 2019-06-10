@@ -1,0 +1,657 @@
+[Fri Jun 07 12:33:03 SGT 2019][INFO]   
+
+[Fri Jun 07 12:33:03 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   获取各币种汇率接口 接口执行成功，无数据错误 
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   
+
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   获取首页资讯信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   
+
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   获取用户信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   
+
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   获取用户资产和等级 数据异常，返回数字不大于对比数字  返回数据 ：amount = 231729.36512954 对比数据 ：amount = 231730
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   获取用户资产和等级  接口执行失败，请查看失败数据
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   
+
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   临时用户登记查询 接口执行成功，无数据错误 
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   
+
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   查询U2认证信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   
+
+[Fri Jun 07 12:33:04 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Fri Jun 07 12:33:05 SGT 2019][INFO]   获取币种充提信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:33:05 SGT 2019][INFO]   
+
+[Fri Jun 07 12:33:05 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Fri Jun 07 12:33:05 SGT 2019][INFO]   根据币种ID获取弹出框提示 接口执行成功，无数据错误 
+[Fri Jun 07 12:35:11 SGT 2019][INFO]   
+
+[Fri Jun 07 12:35:11 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Fri Jun 07 12:35:11 SGT 2019][INFO]   获取各币种汇率接口 接口执行成功，无数据错误 
+[Fri Jun 07 12:35:11 SGT 2019][INFO]   
+
+[Fri Jun 07 12:35:11 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   获取首页资讯信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   
+
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   获取用户信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   
+
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   获取用户资产和等级 数据异常，返回数字不大于对比数字  返回数据 ：amount = 231728.52823029 对比数据 ：amount = 231730
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   获取用户资产和等级  接口执行失败，请查看失败数据
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   
+
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   临时用户登记查询 接口执行成功，无数据错误 
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   
+
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   查询U2认证信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   
+
+[Fri Jun 07 12:35:12 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Fri Jun 07 12:35:13 SGT 2019][INFO]   获取币种充提信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:35:13 SGT 2019][INFO]   
+
+[Fri Jun 07 12:35:13 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Fri Jun 07 12:35:13 SGT 2019][INFO]   根据币种ID获取弹出框提示 接口执行成功，无数据错误 
+[Fri Jun 07 12:41:49 SGT 2019][INFO]   
+
+[Fri Jun 07 12:41:49 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   获取各币种汇率接口 接口执行成功，无数据错误 
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   
+
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   获取首页资讯信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   
+
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   获取用户信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   
+
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   获取用户资产和等级 数据异常，返回数字不大于对比数字  返回数据 ：amount = 231729.36512954 对比数据 ：amount = 231730
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   获取用户资产和等级  接口执行失败，请查看失败数据
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   
+
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   临时用户登记查询 接口执行成功，无数据错误 
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   
+
+[Fri Jun 07 12:41:50 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Fri Jun 07 12:41:51 SGT 2019][INFO]   查询U2认证信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:41:51 SGT 2019][INFO]   
+
+[Fri Jun 07 12:41:51 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Fri Jun 07 12:41:51 SGT 2019][INFO]   获取币种充提信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:41:51 SGT 2019][INFO]   
+
+[Fri Jun 07 12:41:51 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Fri Jun 07 12:41:51 SGT 2019][INFO]   根据币种ID获取弹出框提示 接口执行成功，无数据错误 
+[Fri Jun 07 12:41:51 SGT 2019][INFO]   
+
+[Fri Jun 07 12:41:51 SGT 2019][INFO]   ************************************ 获取IEO最新交易信息  /tradeCenter/v4/getIeoSurPlusAmount ****************************************
+[Fri Jun 07 12:41:51 SGT 2019][INFO]   获取IEO最新交易信息 返回列表类型数据，type值只能为0  type = 3
+[Fri Jun 07 12:41:51 SGT 2019][INFO]   获取IEO最新交易信息  接口执行失败，请查看失败数据
+[Fri Jun 07 12:44:16 SGT 2019][INFO]   
+
+[Fri Jun 07 12:44:16 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   获取各币种汇率接口 接口执行成功，无数据错误 
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   
+
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   获取首页资讯信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   
+
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   获取用户信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   
+
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   获取用户资产和等级 数据异常，返回数字不大于对比数字  返回数据 ：amount = 231729.36512954 对比数据 ：amount = 231730
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   获取用户资产和等级  接口执行失败，请查看失败数据
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   
+
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   临时用户登记查询 接口执行成功，无数据错误 
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   
+
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   查询U2认证信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   
+
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   获取币种充提信息 接口执行成功，无数据错误 
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   
+
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   根据币种ID获取弹出框提示 接口执行成功，无数据错误 
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   
+
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   ************************************ 获取IEO最新交易信息  /tradeCenter/v4/getIeoSurPlusAmount ****************************************
+[Fri Jun 07 12:44:17 SGT 2019][INFO]   获取IEO最新交易信息 接口执行成功，无数据错误 
+[Fri Jun 07 15:26:56 SGT 2019][INFO]   
+
+[Fri Jun 07 15:26:57 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   获取各币种汇率接口 接口执行成功，无数据错误 
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   
+
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   获取首页资讯信息 接口执行成功，无数据错误 
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   
+
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   获取用户信息 接口执行成功，无数据错误 
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   
+
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   获取用户资产和等级 数据异常，返回数字不大于对比数字  返回数据 ：amount = 231728.52823029 对比数据 ：amount = 231730
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   获取用户资产和等级  接口执行失败，请查看失败数据
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   
+
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   临时用户登记查询 接口执行成功，无数据错误 
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   
+
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   查询U2认证信息 接口执行成功，无数据错误 
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   
+
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   获取币种充提信息 接口执行成功，无数据错误 
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   
+
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   根据币种ID获取弹出框提示 接口执行成功，无数据错误 
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   
+
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   ************************************ 获取IEO最新交易信息  /tradeCenter/v4/getIeoSurPlusAmount ****************************************
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   获取IEO最新交易信息 接口执行成功，无数据错误 
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   
+
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   ************************************ 根据币种ID和语言获取对应的币种介绍信息  /tradeCenter/v1/getCoinDetailByCoinIdV2 ****************************************
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息 数据异常，类型转换失败，请确认返回数据或者对比数据为正常数字  返回数据 ：cointotal = 324,951,410 对比数据 ：cointotal = 324,951,410
+[Fri Jun 07 15:26:58 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息  接口执行失败，请查看失败数据
+[Fri Jun 07 15:29:33 SGT 2019][INFO]   
+
+[Fri Jun 07 15:29:33 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Fri Jun 07 15:29:33 SGT 2019][INFO]   获取各币种汇率接口 接口执行成功，无数据错误 
+[Fri Jun 07 15:29:33 SGT 2019][INFO]   
+
+[Fri Jun 07 15:29:33 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Fri Jun 07 15:29:33 SGT 2019][INFO]   获取首页资讯信息 接口执行成功，无数据错误 
+[Fri Jun 07 15:29:33 SGT 2019][INFO]   
+
+[Fri Jun 07 15:29:33 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   获取用户信息 接口执行成功，无数据错误 
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   
+
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   获取用户资产和等级 数据异常，返回数字不大于对比数字  返回数据 ：amount = 231728.52823029 对比数据 ：amount = 231730
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   获取用户资产和等级  接口执行失败，请查看失败数据
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   
+
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   临时用户登记查询 接口执行成功，无数据错误 
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   
+
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   查询U2认证信息 接口执行成功，无数据错误 
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   
+
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   获取币种充提信息 接口执行成功，无数据错误 
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   
+
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   根据币种ID获取弹出框提示 接口执行成功，无数据错误 
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   
+
+[Fri Jun 07 15:29:34 SGT 2019][INFO]   ************************************ 获取IEO最新交易信息  /tradeCenter/v4/getIeoSurPlusAmount ****************************************
+[Fri Jun 07 15:29:35 SGT 2019][INFO]   获取IEO最新交易信息 接口执行成功，无数据错误 
+[Fri Jun 07 15:29:35 SGT 2019][INFO]   
+
+[Fri Jun 07 15:29:35 SGT 2019][INFO]   ************************************ 根据币种ID和语言获取对应的币种介绍信息  /tradeCenter/v1/getCoinDetailByCoinIdV2 ****************************************
+[Fri Jun 07 15:29:35 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息 接口执行成功，无数据错误 
+[Fri Jun 07 18:48:51 SGT 2019][INFO]   
+
+[Fri Jun 07 18:48:51 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   获取各币种汇率接口 接口执行成功，无数据错误 
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   
+
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   获取首页资讯信息 接口执行成功，无数据错误 
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   
+
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   获取用户信息 返回值错误，状态码不为 0  code = 5004
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   获取用户信息  接口执行失败，请查看失败数据
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   
+
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   获取用户资产和等级 返回值错误，状态码不为 0  code = 5004
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   获取用户资产和等级  接口执行失败，请查看失败数据
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   
+
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   临时用户登记查询 返回数据异常，返回数据为空或者与对比数据不符，返回数据 model = false  对比数据 ： model = true
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   临时用户登记查询  接口执行失败，请查看失败数据
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   
+
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   查询U2认证信息 返回值错误，请求状态码不为 200  StatusCode = 401
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   查询U2认证信息  接口执行失败，请查看失败数据
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   
+
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   获取币种充提信息 返回值错误，状态码不为 0  code = 4001
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   获取币种充提信息  接口执行失败，请查看失败数据
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   
+
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   根据币种ID获取弹出框提示 接口执行成功，无数据错误 
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   
+
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   ************************************ 获取IEO最新交易信息  /tradeCenter/v4/getIeoSurPlusAmount ****************************************
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   获取IEO最新交易信息 接口执行成功，无数据错误 
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   
+
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   ************************************ 根据币种ID和语言获取对应的币种介绍信息  /tradeCenter/v1/getCoinDetailByCoinIdV2 ****************************************
+[Fri Jun 07 18:48:52 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:11:43 SGT 2019][INFO]   
+
+[Mon Jun 10 12:11:43 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Mon Jun 10 12:11:44 SGT 2019][INFO]   获取各币种汇率接口 接口执行成功，无数据错误 
+[Mon Jun 10 12:11:44 SGT 2019][INFO]   
+
+[Mon Jun 10 12:11:44 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Mon Jun 10 12:11:44 SGT 2019][INFO]   获取首页资讯信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:11:44 SGT 2019][INFO]   
+
+[Mon Jun 10 12:11:44 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Mon Jun 10 12:11:44 SGT 2019][INFO]   获取用户信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:11:44 SGT 2019][INFO]   
+
+[Mon Jun 10 12:11:44 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   获取用户资产和等级 接口执行成功，无数据错误 
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   
+
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   临时用户登记查询 接口执行成功，无数据错误 
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   
+
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   查询U2认证信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   
+
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   获取币种充提信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   
+
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   根据币种ID获取弹出框提示 接口执行成功，无数据错误 
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   
+
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   ************************************ 获取IEO最新交易信息  /tradeCenter/v4/getIeoSurPlusAmount ****************************************
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   获取IEO最新交易信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   
+
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   ************************************ 根据币种ID和语言获取对应的币种介绍信息  /tradeCenter/v1/getCoinDetailByCoinIdV2 ****************************************
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   
+
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   ************************************ 获取IEO信息  /userCenter/v1/existsCertificateNo ****************************************
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   获取IEO信息 返回值错误，请求状态码不为 200  StatusCode = 405
+[Mon Jun 10 12:11:45 SGT 2019][INFO]   获取IEO信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:12:10 SGT 2019][INFO]   
+
+[Mon Jun 10 12:12:10 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Mon Jun 10 12:12:11 SGT 2019][INFO]   获取各币种汇率接口 接口执行成功，无数据错误 
+[Mon Jun 10 12:12:11 SGT 2019][INFO]   
+
+[Mon Jun 10 12:12:11 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Mon Jun 10 12:12:11 SGT 2019][INFO]   获取首页资讯信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:12:11 SGT 2019][INFO]   
+
+[Mon Jun 10 12:12:11 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Mon Jun 10 12:12:11 SGT 2019][INFO]   获取用户信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:12:11 SGT 2019][INFO]   
+
+[Mon Jun 10 12:12:11 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   获取用户资产和等级 接口执行成功，无数据错误 
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   
+
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   临时用户登记查询 接口执行成功，无数据错误 
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   
+
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   查询U2认证信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   
+
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   获取币种充提信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   
+
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   根据币种ID获取弹出框提示 接口执行成功，无数据错误 
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   
+
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   ************************************ 获取IEO最新交易信息  /tradeCenter/v4/getIeoSurPlusAmount ****************************************
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   获取IEO最新交易信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   
+
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   ************************************ 根据币种ID和语言获取对应的币种介绍信息  /tradeCenter/v1/getCoinDetailByCoinIdV2 ****************************************
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   
+
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   ************************************ 获取IEO信息  /userCenter/v1/existsCertificateNo ****************************************
+[Mon Jun 10 12:12:12 SGT 2019][INFO]   获取IEO信息 接口执行成功，无数据错误 
+[Mon Jun 10 12:26:30 SGT 2019][INFO]   
+
+[Mon Jun 10 12:26:30 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取各币种汇率接口 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取各币种汇率接口  接口执行失败，请查看失败数据
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   
+
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取首页资讯信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取首页资讯信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   
+
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取用户信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取用户信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   
+
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取用户资产和等级 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取用户资产和等级  接口执行失败，请查看失败数据
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   
+
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   临时用户登记查询 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   临时用户登记查询  接口执行失败，请查看失败数据
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   
+
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   查询U2认证信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   查询U2认证信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   
+
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取币种充提信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取币种充提信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   
+
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   根据币种ID获取弹出框提示 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   根据币种ID获取弹出框提示  接口执行失败，请查看失败数据
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   
+
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   ************************************ 获取IEO最新交易信息  /tradeCenter/v4/getIeoSurPlusAmount ****************************************
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取IEO最新交易信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取IEO最新交易信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   
+
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   ************************************ 根据币种ID和语言获取对应的币种介绍信息  /tradeCenter/v1/getCoinDetailByCoinIdV2 ****************************************
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   
+
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   ************************************ 获取IEO信息  /userCenter/v1/existsCertificateNo ****************************************
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取IEO信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   获取IEO信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   
+
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   ************************************ 就是一个例子  /demo ****************************************
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   就是一个例子 返回值错误，状态码不为 0  code = null
+[Mon Jun 10 12:26:31 SGT 2019][INFO]   就是一个例子  接口执行失败，请查看失败数据
+[Mon Jun 10 12:26:59 SGT 2019][INFO]   
+
+[Mon Jun 10 12:26:59 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取各币种汇率接口 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取各币种汇率接口  接口执行失败，请查看失败数据
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   
+
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取首页资讯信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取首页资讯信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   
+
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取用户信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取用户信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   
+
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取用户资产和等级 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取用户资产和等级  接口执行失败，请查看失败数据
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   
+
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   临时用户登记查询 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   临时用户登记查询  接口执行失败，请查看失败数据
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   
+
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   查询U2认证信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   查询U2认证信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   
+
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取币种充提信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取币种充提信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   
+
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   根据币种ID获取弹出框提示 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   根据币种ID获取弹出框提示  接口执行失败，请查看失败数据
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   
+
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   ************************************ 获取IEO最新交易信息  /tradeCenter/v4/getIeoSurPlusAmount ****************************************
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取IEO最新交易信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取IEO最新交易信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   
+
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   ************************************ 根据币种ID和语言获取对应的币种介绍信息  /tradeCenter/v1/getCoinDetailByCoinIdV2 ****************************************
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   
+
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   ************************************ 获取IEO信息  /userCenter/v1/existsCertificateNo ****************************************
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取IEO信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   获取IEO信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   
+
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   ************************************ 就是一个例子  /demo ****************************************
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   就是一个例子 返回值错误，状态码不为 0  code = null
+[Mon Jun 10 12:27:00 SGT 2019][INFO]   就是一个例子  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:04 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:04 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取各币种汇率接口 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取各币种汇率接口  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取首页资讯信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取首页资讯信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取用户信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取用户信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取用户资产和等级 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取用户资产和等级  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   临时用户登记查询 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   临时用户登记查询  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   查询U2认证信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   查询U2认证信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取币种充提信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取币种充提信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   根据币种ID获取弹出框提示 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   根据币种ID获取弹出框提示  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   ************************************ 获取IEO最新交易信息  /tradeCenter/v4/getIeoSurPlusAmount ****************************************
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取IEO最新交易信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取IEO最新交易信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   ************************************ 根据币种ID和语言获取对应的币种介绍信息  /tradeCenter/v1/getCoinDetailByCoinIdV2 ****************************************
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   ************************************ 获取IEO信息  /userCenter/v1/existsCertificateNo ****************************************
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取IEO信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   获取IEO信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   ************************************ 就是一个例子  /demo ****************************************
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   就是一个例子 数据异常，返回数字与对比数字不一致  返回数据 ：model = 123456.789 对比数据 ：model = 123456
+[Mon Jun 10 12:29:05 SGT 2019][INFO]   就是一个例子  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取各币种汇率接口 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取各币种汇率接口  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取首页资讯信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取首页资讯信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取用户信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取用户信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取用户资产和等级 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取用户资产和等级  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   临时用户登记查询 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   临时用户登记查询  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   查询U2认证信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   查询U2认证信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取币种充提信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取币种充提信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   根据币种ID获取弹出框提示 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   根据币种ID获取弹出框提示  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   ************************************ 获取IEO最新交易信息  /tradeCenter/v4/getIeoSurPlusAmount ****************************************
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取IEO最新交易信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取IEO最新交易信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   ************************************ 根据币种ID和语言获取对应的币种介绍信息  /tradeCenter/v1/getCoinDetailByCoinIdV2 ****************************************
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   ************************************ 获取IEO信息  /userCenter/v1/existsCertificateNo ****************************************
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取IEO信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   获取IEO信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   
+
+[Mon Jun 10 12:29:16 SGT 2019][INFO]   ************************************ 就是一个例子  /demo ****************************************
+[Mon Jun 10 12:30:04 SGT 2019][INFO]   就是一个例子 数据异常，返回数字与对比数字不一致  返回数据 ：model = 123456.789 对比数据 ：model = 123456
+[Mon Jun 10 12:30:04 SGT 2019][INFO]   就是一个例子  接口执行失败，请查看失败数据
+[Mon Jun 10 12:31:54 SGT 2019][INFO]   
+
+[Mon Jun 10 12:31:54 SGT 2019][INFO]   ************************************ 获取各币种汇率接口  /basic/v1/usdtRate ****************************************
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取各币种汇率接口 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取各币种汇率接口  接口执行失败，请查看失败数据
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   
+
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   ************************************ 获取首页资讯信息  /contentCenter/v3/indexDocumentCarouselNews ****************************************
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取首页资讯信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取首页资讯信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   
+
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   ************************************ 获取用户信息  /userCenter/v2/getUserSecurityBindInfoV2 ****************************************
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取用户信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取用户信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   
+
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   ************************************ 获取用户资产和等级  /userCapital/v3/getUserCapitalInfo ****************************************
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取用户资产和等级 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取用户资产和等级  接口执行失败，请查看失败数据
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   
+
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   ************************************ 临时用户登记查询  /userCenter/v4/selectTempInfoByUserId ****************************************
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   临时用户登记查询 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   临时用户登记查询  接口执行失败，请查看失败数据
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   
+
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   ************************************ 查询U2认证信息  /userCenter/v1/getCustomerVerifyById ****************************************
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   查询U2认证信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   查询U2认证信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   
+
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   ************************************ 获取币种充提信息  /tradeCenter/v2/getCoinRechargeWithdrawInfoByCoinId ****************************************
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取币种充提信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取币种充提信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   
+
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   ************************************ 根据币种ID获取弹出框提示  /contentCenter/v1/getNoticeByCoinId ****************************************
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   根据币种ID获取弹出框提示 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   根据币种ID获取弹出框提示  接口执行失败，请查看失败数据
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   
+
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   ************************************ 获取IEO最新交易信息  /tradeCenter/v4/getIeoSurPlusAmount ****************************************
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取IEO最新交易信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取IEO最新交易信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   
+
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   ************************************ 根据币种ID和语言获取对应的币种介绍信息  /tradeCenter/v1/getCoinDetailByCoinIdV2 ****************************************
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   根据币种ID和语言获取对应的币种介绍信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   
+
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   ************************************ 获取IEO信息  /userCenter/v1/existsCertificateNo ****************************************
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取IEO信息 返回值错误，请求状态码不为 200  StatusCode = 400
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   获取IEO信息  接口执行失败，请查看失败数据
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   
+
+[Mon Jun 10 12:31:55 SGT 2019][INFO]   ************************************ 就是一个例子  /demo ****************************************
+[Mon Jun 10 12:32:07 SGT 2019][INFO]   就是一个例子 接口执行成功，无数据错误 

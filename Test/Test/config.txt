@@ -1,0 +1,15 @@
+{
+	"BasicInformation": {
+		"BaseAddress": "http://localhost:8888",
+		"ResponseTime": "3000"
+	},
+
+	"RequestHeader": {
+		"Accept": "application/json, text/plain, */*",
+		"Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6InVzZXIiLCJ1c2VyaWQiOiIxLTEzMDk0NzEiLCJpc3MiOiJwYy5hcGkueW9idGMuY29tIiwiYXVkIjoiMDk4ZjZiY2Q0NjIxZDM3M2NhZGU0ZTgzMjYyN2I0ZjYiLCJpYXQiOjE1NjAxMzk1MDQsImV4cCI6MTU2MDE1MzkwNCwibmJmIjoxNTYwMTM5NTA0fQ.fiPk6OBdjTRLhn2tTKAtWjwVQ0B1bVQ4Omn8MxL_llo",
+		"lang": "zh",
+		"from": "74ab02abbee00275fc624827134e83e7",
+		"Referer": "http://47.244.25.154:81/cn/",
+		"country": "CN"
+	}
+}
